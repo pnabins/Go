@@ -1,0 +1,3 @@
+earningBeforeTax: -51129.0
+arningAfterTAx: 2300.0
+ratio: -0.045

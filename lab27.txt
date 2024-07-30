@@ -1,0 +1,24 @@
+ build a profit calculator,
+
+a command line tool built with Go, of course,
+
+that asks users for revenue, expenses,
+
+and tax rate input,
+
+and that then calculates earnings before tax
+
+and earnings after tax,
+
+as well as the ratio between these two values
+
+and that then outputs these three values.
+
+So that we got such a profit calculator that we can use
+
+to calculate any profit based on these three input values.
+
+Now for that, you can create
+
+a brand new Go project.
+
